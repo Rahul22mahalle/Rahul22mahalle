@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Waman Mahalle</h1>
-<h3 align="center">Aspiring AI Engineer | Java Developer | Problem Solver from India 🇮🇳</h3>
+<h3 align="center">Aspiring AI Engineer | Problem Solver from India 🇮🇳</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🎓 Passionate about **Artificial Intelligence, Machine Learning, and Backend Development**
 - 💡 Strong foundation in **Java, Data Structures & Algorithms**
 - 🧠 Interested in **AI, Data Engineering, and Scalable Systems**
-- 🔭 Currently learning **Advanced DSA, ML models, and Spring Boot**
+- 🔭 Currently learning **Advanced DSA, ML models, AI**
 - 💬 Ask me about **Java, Python, SQL, DSA, or AI basics**
 - 🚀 Goal: Become a **Skilled Software Engineer with AI expertise**
 
@@ -39,48 +39,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-</a>
-
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://opencv.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank">
